@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/drawable/border.xml" value="0.2265" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/drawable/vydra_background.xml" value="0.2265" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/layout/activity_main.xml" value="0.3142857142857143" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/layout/huy.xml" value="0.25" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/layout/image_activity.xml" value="0.20427350427350427" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/layout/sended_image.xml" value="0.4" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/layout/sended_message.xml" value="0.4" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/layout/tester.xml" value="0.25" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/mipmap-anydpi-v26/vydra.xml" value="0.121" />
+        <entry key="..\:/Users/fedor/AndroidStudioProjects/1ch/app/src/main/res/mipmap-anydpi-v26/vydra_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
