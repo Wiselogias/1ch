@@ -1,4 +1,4 @@
-package com.wiselogia.a1ch
+package com.wiselogia.a1ch.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -6,12 +6,14 @@ import androidx.core.view.isVisible
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.wiselogia.a1ch.databinding.SendedMessageBinding
+import com.wiselogia.a1ch.glide
+import com.wiselogia.a1ch.models.UsefulMessageModel
 import java.sql.Timestamp
 
 class MessagesAdapter(private val onClick: (UsefulMessageModel) -> Unit) :
     RecyclerView.Adapter<MessagesAdapter.MessagesHolder>() {
 
-    private var showables = listOf<UsefulMessageModel>()
+    var showables = listOf<UsefulMessageModel>()
         set(value) {
             val res = DiffUtil.calculateDiff(object : DiffUtil.Callback() {
                 override fun getOldListSize() = field.size
